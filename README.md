@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Puja-shahi
+- 👋 Hi, I’m Puja-shahi
 - 👀 I’m interested in emerging technologies
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on github
